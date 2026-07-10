@@ -88,9 +88,9 @@ def load_data():
     if not (os.path.exists(comp_path) and os.path.exists(score_path) and os.path.exists(exh_path)):
         return None
         
-    df_comp = pd.read_csv(comp_path, encoding='utf-8')
-    df_score = pd.read_csv(score_path, encoding='utf-8')
-    df_exh = pd.read_csv(exh_path, encoding='utf-8')
+    df_comp = pd.read_csv(comp_path, encoding='utf-8-sig')
+    df_score = pd.read_csv(score_path, encoding='utf-8-sig')
+    df_exh = pd.read_csv(exh_path, encoding='utf-8-sig')
     
     # Merge datasets
     # 1) Merge companies with their lead scores

@@ -1,45 +1,46 @@
-company_id,exhibition_id,company_name,booth_number,category,employee_count,has_export,website_quality_score,email_trust_score
-COM-001,EXH-03,(주)클래식디자인,D-134,Fashion,106,N,93,98
-COM-002,EXH-02,(주)그린아트,E-182,Health,58,Y,97,93
-COM-003,EXH-04,(주)코리아리빙,C-160,Beauty,89,Y,83,63
-COM-004,EXH-01,(주)오리엔탈시스템,A-114,Living,31,Y,43,36
-COM-005,EXH-03,(주)에이치유통,B-128,Health,82,Y,81,73
-COM-006,EXH-04,(주)에이치인터내셔널,B-186,Beauty,28,Y,77,32
-COM-007,EXH-03,(주)클린라이프,E-143,Fashion,108,N,99,98
-COM-008,EXH-03,(주)웰빙유통,B-103,Food,133,Y,88,81
-COM-009,EXH-02,(주)에이치컴퍼니,E-194,Health,35,N,58,49
-COM-010,EXH-01,(주)네추럴헬스,B-196,Beauty,12,N,12,24
-COM-011,EXH-02,(주)코리아아트,A-110,Food,5,Y,18,55
-COM-012,EXH-04,(주)유니온제약,D-107,Living,135,N,85,43
-COM-013,EXH-04,(주)미래코퍼레이션,B-143,Fashion,52,Y,99,81
-COM-014,EXH-05,(주)클래식컴퍼니,E-179,Living,4,Y,54,62
-COM-015,EXH-01,(주)디지털코퍼레이션,A-161,Health,66,Y,76,61
-COM-016,EXH-02,(주)클린테크,A-149,Health,86,Y,74,99
-COM-017,EXH-01,(주)그린헬스,D-184,Health,65,N,75,52
-COM-018,EXH-04,(주)미래제약,A-132,Beauty,68,N,73,92
-COM-019,EXH-04,(주)그린리빙,A-162,Fashion,20,Y,29,18
-COM-020,EXH-01,(주)스마트제약,E-168,Beauty,52,Y,91,96
-COM-021,EXH-02,(주)더블유제약,E-120,Health,110,N,83,83
-COM-022,EXH-02,(주)클린네트웍스,E-192,Food,99,Y,71,48
-COM-023,EXH-01,(주)더블유바이오,D-151,Health,90,N,100,66
-COM-024,EXH-05,(주)화인코퍼레이션,C-105,Food,93,N,51,58
-COM-025,EXH-02,(주)오리엔탈네트웍스,B-156,Health,74,Y,65,94
-COM-026,EXH-05,(주)화인컴퍼니,B-195,Fashion,32,Y,66,66
-COM-027,EXH-02,(주)코리아푸드,D-183,Food,135,Y,64,83
-COM-028,EXH-02,(주)글로벌케어,B-134,Health,107,N,91,60
-COM-029,EXH-04,(주)더블유코퍼레이션,C-102,Beauty,33,Y,26,85
-COM-030,EXH-01,(주)더블유네트웍스,A-109,Living,87,N,76,58
-COM-031,EXH-04,(주)더블유인터내셔널,D-191,Beauty,88,N,99,91
-COM-032,EXH-03,(주)오리엔탈인터내셔널,A-169,Living,5,Y,85,68
-COM-033,EXH-04,(주)클래식네트웍스,D-129,Living,114,Y,74,86
-COM-034,EXH-02,(주)미래컴퍼니,B-151,Food,9,Y,84,29
-COM-035,EXH-04,(주)이노라이프,E-145,Fashion,69,Y,74,61
-COM-036,EXH-06,우신라보타치,F-176,Beauty,100,Y,61,90
-COM-037,EXH-06,(주)제일스티로폴,F-125,Fashion,130,N,100,86
-COM-038,EXH-06,(주)이에스지케미칼,F-183,Kitchen,33,Y,48,91
-COM-039,EXH-06,바이오라이프,F-135,Houseware,150,Y,93,85
-COM-040,EXH-06,옴니스랩스 주식회사,F-133,Tech,36,Y,44,34
-COM-041,EXH-06,탐투스(주),F-152,Smart,152,Y,71,94
-COM-042,EXH-06,주식회사 세이빙스토리,F-140,Tech,37,N,24,83
-COM-043,EXH-06,주식회사 더세이프코리아,F-135,Tech,177,N,89,97
-COM-044,EXH-06,주식회사 체크메인,F-170,Tech,13,N,85,50
+﻿company_id,exhibition_id,company_name,booth_number,category,employee_count,has_export,website_quality_score,email_trust_score
+COM-001,EXH-01,우신라보타치,B-166,Beauty,163,Y,94,74
+COM-002,EXH-04,(주)제일스티로폴,E-138,Fashion,54,N,50,69
+COM-003,EXH-05,(주)이에스지케미칼,A-183,Kitchen,146,N,84,60
+COM-004,EXH-03,바이오라이프,D-152,Houseware,71,N,58,88
+COM-005,EXH-06,옴니스랩스 주식회사,B-121,Tech,173,N,55,62
+COM-006,EXH-06,탐투스(주),C-139,Smart,79,N,80,81
+COM-007,EXH-06,주식회사 세이빙스토리,B-132,Tech,71,Y,70,66
+COM-008,EXH-06,주식회사 더세이프코리아,F-158,Tech,93,Y,59,69
+COM-009,EXH-06,주식회사 체크메인,D-183,Tech,88,N,61,66
+COM-010,EXH-06,주식회사 밀알,E-122,Tech,103,N,57,68
+COM-011,EXH-06,(주)와골프,B-120,Leisure,138,Y,89,96
+COM-012,EXH-06,주식회사 디자인숲,F-198,Tech,58,N,50,15
+COM-013,EXH-03,아포트레,E-168,Kitchen,114,Y,57,88
+COM-014,EXH-04,(주)글로코,F-119,Beauty,110,Y,94,59
+COM-015,EXH-05,주식회사 이엔아이,C-158,Kitchen,45,N,70,85
+COM-016,EXH-01,주식회사 젠유랩,B-128,Beauty,81,N,76,95
+COM-017,EXH-04,캔루,F-151,Fashion,130,N,89,91
+COM-018,EXH-06,주식회사 엑스콤스,F-124,Smart,23,N,89,62
+COM-019,EXH-01,코코천사랑,B-117,Fashion,109,N,55,89
+COM-020,EXH-06,(주)사람,F-194,Leisure,98,Y,98,77
+COM-021,EXH-03,(주)나우플랫폼,A-180,Houseware,104,Y,68,48
+COM-022,EXH-03,피에스허브,D-172,Houseware,90,N,76,53
+COM-023,EXH-02,로얄브라우니,F-125,Food,92,N,100,90
+COM-024,EXH-04,에스에스엠,A-154,Beauty,170,N,61,73
+COM-025,EXH-02,주식회사 다인물산,E-129,Food,20,N,83,83
+COM-026,EXH-01,포레스트가닉,C-183,Beauty,105,Y,82,85
+COM-027,EXH-01,주식회사 희올,A-193,Beauty,118,N,65,71
+COM-028,EXH-03,주식회사 코리아엣지,E-165,Kitchen,83,Y,55,69
+COM-029,EXH-01,이로운샵,C-182,Fashion,156,N,85,59
+COM-030,EXH-02,엠에스푸드주식회사,D-117,Food,82,Y,85,67
+COM-031,EXH-06,주식회사에스알디솔루션,A-195,Tech,52,N,55,62
+COM-032,EXH-04,(주)클린그로우라이프,B-132,Beauty,12,N,95,71
+COM-033,EXH-04,벤치컴퍼니,F-156,Beauty,109,N,55,88
+COM-034,EXH-06,유피스,B-138,Tech,35,Y,74,63
+COM-035,EXH-04,시에나,E-101,Beauty,94,N,97,85
+COM-036,EXH-02,달과031(과실증류주),B-145,Food,11,Y,43,63
+COM-037,EXH-01,주식회사 모율,A-150,Beauty,124,Y,72,58
+COM-038,EXH-06,(주)바루션,D-189,Tech,116,N,74,86
+COM-039,EXH-02,주식회사 웰니스터,C-127,Food,103,Y,72,75
+COM-040,EXH-04,(주)아진교역,E-142,Fashion,60,Y,31,53
+COM-041,EXH-04,주식회사 여리여리,F-150,Beauty,154,N,75,59
+COM-042,EXH-04,에이치앤와이상사,E-166,Beauty,145,N,81,87
+COM-043,EXH-01,파나띠꼬,D-154,Beauty,176,Y,63,48
+COM-044,EXH-02,전통주 연구개발원,F-167,Food,41,N,55,57
+COM-045,EXH-04,주식회사 앰플몬스터,C-148,Beauty,158,Y,69,90

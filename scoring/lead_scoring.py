@@ -40,7 +40,7 @@ def run_lead_scoring():
         return
     
     # Read companies CSV
-    df = pd.read_csv(input_path, encoding='utf-8')
+    df = pd.read_csv(input_path, encoding='utf-8-sig')
     
     # Raw Score Breakdown Calculations
     df['raw_website_score'] = df['website_quality_score'].astype(float)
@@ -78,7 +78,7 @@ def run_lead_scoring():
     ]
     
     # Save to CSV
-    output_df.to_csv(output_path, index=False, encoding='utf-8')
+    output_df.to_csv(output_path, index=False, encoding='utf-8-sig')
     print(f"[OK] Lead Scoring Completed! Result saved to: {output_path}")
     
     # --- EVALUATION SUMMARY ---

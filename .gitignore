@@ -1,0 +1,136 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script, but may be useful to ignore
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nosexy
+.noseids
+.pytest_cache/
+.testmondata
+.hypothesis/
+.cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or app, you might want to share your .python-version if you use pyenv
+#   but suggest to ignore it if you are writing a script/app
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#1248, the recommended behavior is to not commit Pipfile.lock
+#   when you are developing an app (as opposed to a library).
+# Pipfile.lock
+
+# poetry
+#   Similarly, poetry.lock is usually committed, but can be ignored if desired.
+# poetry.lock
+
+# pdm
+#   Similarly, pdm.lock is usually committed, but can be ignored if desired.
+# .pdm-python
+# .pdm-build/
+
+# pipxml
+#   Usually these files are written by a python script, but may be useful to ignore
+# .pipxml
+
+# virtualenv
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+/ActiveState/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
